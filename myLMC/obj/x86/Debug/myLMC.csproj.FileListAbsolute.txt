@@ -1,0 +1,20 @@
+C:\Users\Guiller\AppData\Local\Temporary Projects\myLMC\obj\x86\Debug\myLMC.frmMain.resources
+C:\Users\Guiller\AppData\Local\Temporary Projects\myLMC\obj\x86\Debug\myLMC.Properties.Resources.resources
+C:\Users\Guiller\AppData\Local\Temporary Projects\myLMC\obj\x86\Debug\myLMC.csproj.GenerateResource.Cache
+C:\Users\Guiller\AppData\Local\Temporary Projects\myLMC\bin\Debug\myLMC.exe
+C:\Users\Guiller\AppData\Local\Temporary Projects\myLMC\bin\Debug\myLMC.pdb
+C:\Users\Guiller\AppData\Local\Temporary Projects\myLMC\obj\x86\Debug\myLMC.exe
+C:\Users\Guiller\AppData\Local\Temporary Projects\myLMC\obj\x86\Debug\myLMC.pdb
+C:\Users\Guiller\documents\visual studio 2010\Projects\myLMC\myLMC\obj\x86\Debug\myLMC.exe
+C:\Users\Guiller\documents\visual studio 2010\Projects\myLMC\myLMC\obj\x86\Debug\myLMC.pdb
+C:\Users\Guiller\documents\visual studio 2010\Projects\myLMC\myLMC\obj\x86\Debug\myLMC.frmMain.resources
+C:\Users\Guiller\documents\visual studio 2010\Projects\myLMC\myLMC\obj\x86\Debug\myLMC.Properties.Resources.resources
+C:\Users\Guiller\documents\visual studio 2010\Projects\myLMC\myLMC\obj\x86\Debug\myLMC.csproj.GenerateResource.Cache
+C:\Users\Guiller\documents\visual studio 2010\Projects\myLMC\myLMC\bin\Debug\myLMC.exe
+C:\Users\Guiller\documents\visual studio 2010\Projects\myLMC\myLMC\bin\Debug\myLMC.pdb
+C:\Users\Guiller\documents\visual studio 2010\Projects\myLMC\myLMC\obj\x86\Debug\myLMC.csprojResolveAssemblyReference.cache
+C:\Users\Guiller\documents\visual studio 2010\Projects\myLMC\myLMC\obj\x86\Debug\myLMC.frmInstructionSet.resources
+C:\Users\Guiller\documents\visual studio 2010\Projects\myLMC\myLMC\obj\x86\Debug\myLMC.frmAbout.resources
+C:\Users\Guiller\Documents\Visual Studio 2010\Projects\myLMC\myLMC\bin\Debug\MetroFramework.dll
+C:\Users\Guiller\documents\visual studio 2010\Projects\myLMC\myLMC\obj\x86\Debug\myLMC.frmAssemblyEditor.resources
+C:\Users\Guiller\Documents\Visual Studio 2010\Projects\myLMC\myLMC\bin\Debug\Transitions.dll
