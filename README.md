@@ -1,4 +1,4 @@
-# csharp-lmc
-LMC (Little Man Computer) Simulator example in C#
+# C-sharp Little Man Computer Simulator
+A simple LMC (Little Man Computer) Simulator in C#
 
 
